@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkZZDrzPlW8=",
+  "success": true,
+  "projectFilePath": "Z:\\Legeplads\\Projekter\\Kode\\Github\\DVDInator\\src\\DVDInator\\DVDInator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\henri\\.nuget\\packages\\ffmpegcore\\5.4.0\\ffmpegcore.5.4.0.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\instances\\3.0.2\\instances.3.0.2.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\system.commandline\\2.0.3\\system.commandline.2.0.3.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\xabe.ffmpeg\\6.0.2\\xabe.ffmpeg.6.0.2.nupkg.sha512",
+    "C:\\Users\\henri\\.nuget\\packages\\xabe.ffmpeg.downloader\\6.0.2\\xabe.ffmpeg.downloader.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
